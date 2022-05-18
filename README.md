@@ -1,2 +1,2 @@
 My first readme
-Exciting times indeed
+exciting times indeed
